@@ -1,7 +1,4 @@
 /node_modules
-/.tmp
-/.sass-cache
-/bower_components
 .DS_Store
-/public
 npm-debug.log
+yarn-error.log
